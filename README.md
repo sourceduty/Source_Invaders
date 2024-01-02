@@ -9,6 +9,7 @@
 
 There is one player against 40 zombies in one room. The player has to kill the zombies before they destroy the wall between the player from the zombies. The wall between the zombies and the player will be destroyed after 2 minutes. There is only one level. The player will be killed by the zombies after 2 minutes.
 
+#
 ### COPYRIGHT
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
 ***
